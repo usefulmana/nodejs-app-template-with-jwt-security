@@ -1,0 +1,4 @@
+{
+    "uri": "DB_URI",
+    "jwtSecret": "YOUR_SECRET"
+}
